@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pdtoit
 - 👀 I’m interested in C++ and C#
-- 🌱 I’m currently learning x86 Assembly
+- 🌱 I’m currently playing with AI solutions
 - 💞️ I’m looking to collaborate on C++ projects
 - 📫 How to reach me pdtoit@gmail.com
 
